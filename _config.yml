@@ -15,16 +15,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6911027
+  saturation: 0.1240602
   brandStrength: 0.4538552488666028
-  lightness: 0.8114035
+  lightness: 0.8427318
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  rhythmicContrast: 0.3370927
+  rhythmicContrast: 0.9260651
 typography_spectrum: 0.3884712
-layout_spectrum: 0.3250044246669859
+layout_spectrum: 0.9536341
 name: natural curiosity
