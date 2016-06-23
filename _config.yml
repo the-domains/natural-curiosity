@@ -1,18 +1,30 @@
-layout_spectrum: 0.32500442466698587
-typography_spectrum: 0.8966420518700033
+author:
+  name: Rick Armbrust
+  email: rickarm@gmail.com
+  url: rickarmbrust.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6911027
   brandStrength: 0.4538552488666028
-  lightness: 0.020880470983684063
-  saturation: 0.4835144216194749
-  rhythmicContrast: 0.6053864678833634
+  lightness: 0.8114035
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  rhythmicContrast: 0.3370927
+typography_spectrum: 0.3884712
+layout_spectrum: 0.3250044246669859
 name: natural curiosity
-author:
-  name: Rick Armbrust
-  email: rickarm@gmail.com
-  url: rickarmbrust.com
